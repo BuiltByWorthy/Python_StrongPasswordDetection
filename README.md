@@ -2,7 +2,7 @@
 Uses regular expressions to make sure that a password is strong.
 
 # Task Instructions
-Write a function that uses regular expressions to make sure the password string it is passed is strong. 
+Write a function that uses regular expressions to make sure the given password string is strong. 
 
 A strong password is defined as one that is:
 * At least eight characters long.
